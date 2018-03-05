@@ -1,0 +1,9 @@
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\demnguoc\demnguoc\bin\Debug\demnguoc.exe.config
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\demnguoc\demnguoc\bin\Debug\demnguoc.exe
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\demnguoc\demnguoc\bin\Debug\demnguoc.pdb
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\demnguoc\demnguoc\obj\Debug\demnguoc.csprojResolveAssemblyReference.cache
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\demnguoc\demnguoc\obj\Debug\demnguoc.Form1.resources
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\demnguoc\demnguoc\obj\Debug\demnguoc.Properties.Resources.resources
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\demnguoc\demnguoc\obj\Debug\demnguoc.csproj.GenerateResource.Cache
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\demnguoc\demnguoc\obj\Debug\demnguoc.exe
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\demnguoc\demnguoc\obj\Debug\demnguoc.pdb
